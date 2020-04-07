@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="lambdata-dougscohen", # the name that you will install via pip
-    version="1.0",
+    version="1.1",
     author="Doug Cohen",
     author_email="doug-cohen@lambdastudents.com",
     description="package containing a function that converts a time in string to seconds, and a fucntion that converts state names to thier abbreviations",
