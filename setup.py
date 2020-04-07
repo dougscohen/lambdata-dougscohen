@@ -10,7 +10,7 @@ setup(
     version="1.0",
     author="Doug Cohen",
     author_email="doug-cohen@lambdastudents.com",
-    description="A short description",
+    description="package containing a function that converts a time in string to seconds, and a fucntion that converts state names to thier abbreviations",
     long_description=long_description,
     long_description_content_type="text/markdown", # required if using a md
     #file for long desc license="MIT",
